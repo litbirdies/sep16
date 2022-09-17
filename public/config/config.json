@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6b3dc1857412828cf056B145c1CB4E64aA9bdc0B",
+  "SCAN_LINK": "https://etherscan.io/address/0x6b3dc1857412828cf056b145c1cb4e64aa9bdc0b",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Lit Birdie",
+  "SYMBOL": "Lit Birdie",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/litbirdies",
+  "SHOW_BACKGROUND": true
+}
